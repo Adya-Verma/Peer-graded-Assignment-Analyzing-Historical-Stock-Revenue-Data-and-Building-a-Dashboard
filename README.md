@@ -1,4 +1,3 @@
-```markdown
 # Analyzing Historical Stock/Revenue Data and Building a Dashboard
 
 This repository contains the code and data for the final assignment of the Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard.
